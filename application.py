@@ -1,5 +1,6 @@
 # String Manipulation
 import string
+import Solution
 
 # print("Hello World")
 
@@ -36,3 +37,5 @@ print(s[0:5])
 print(s[:5])    #not specified start point means from the begining of the string
 print(s[6:12])
 print(s[6:])    #not specified end point means till the end of the string
+
+
