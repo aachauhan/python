@@ -38,4 +38,7 @@ print(s[:5])    #not specified start point means from the begining of the string
 print(s[6:12])
 print(s[6:])    #not specified end point means till the end of the string
 
+x = {'foo': 'bar'}
+y = {'baz': x}
+
 
